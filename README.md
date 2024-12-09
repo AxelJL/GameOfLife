@@ -56,5 +56,10 @@ Avant de pouvoir compiler et exécuter ce projet, vous devez avoir les élément
 
 ### Cloner le repository
 
+Repo github : https://github.com/AxelJL/GameOfLife
+Dans le dossier build -> bin -> debug : Placer assets et grille.txt
+
+
+
  
 
