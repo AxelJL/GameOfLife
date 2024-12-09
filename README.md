@@ -1,6 +1,6 @@
 # Jeu de la vie 
 
-Ce projet implémente un jeu de simulation cellulaire en C++ utilisant la bibliothèque SFML pour l'affichage graphique. Le jeu est basé sur un système de cellules qui évoluent au fil du temps selon des règles simples, similaires au jeu "Conway's Game of Life". Le programme offre à la fois un mode console et un mode graphique pour visualiser l'évolution de la grille de cellules.
+Ce projet implémente un jeu de simulation cellulaire en C++ utilisant la bibliothèque SFML pour l'affichage graphique. Le jeu est basé sur un système de cellules qui évoluent au fil du temps selon des règles simples. Le programme offre à la fois un mode console et un mode graphique pour visualiser l'évolution de la grille de cellules.
 
 ## Structure du projet
 
